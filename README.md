@@ -31,6 +31,7 @@
 * 데이터 과학을 위한 파이썬 프로그래밍, 최성철, 한빛아카데미 ([YouTube 동영상 자료](http://www.youtube.com/c/teamlabmooc)를 함께 활용)
 * 세상 물정의 물리학, 김범준, 동아시아
 * [SFI 복잡계 동영상 자료](http://www.complexityexplorer.org)
+
 <참고도서>
 * Think Complexity, Allen Downey, O’Reilly
 * Networks: An Introduction, Mark Newman, Oxford University Press
