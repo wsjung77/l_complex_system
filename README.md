@@ -32,7 +32,7 @@
 * 세상 물정의 물리학, 김범준, 동아시아
 * [SFI 복잡계 동영상 자료](http://www.complexityexplorer.org)
 
-<참고도서>
+### 참고도서
 * Think Complexity, Allen Downey, O’Reilly
 * Networks: An Introduction, Mark Newman, Oxford University Press
 * Network Science, Albert-Laszlo Barabasi, Cambridge University Press
